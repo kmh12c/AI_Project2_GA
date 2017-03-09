@@ -111,6 +111,8 @@ priority_queue<organism> reproduce(priority_queue<organism> population, vector<I
 	if (randNum2 > randNum22)
 		randNum2 = randNum22; 
 
+	//TODO - want to do tournament style pick for parents
+
 	//TODO - change PQ structure to user-sorted stl container to avoid this in future iterations
 	priority_queue<organism> temp; 
 	organism parent1, parent2;
