@@ -21,7 +21,7 @@ using namespace std;
 #define MUTATION_RATE 0.005 //.5% chance of mutation per bit in organism DNA
 #define POP_SIZE 100 //number of organisms to generate and build off of
 #define DNA_LENGTH 81 //number of items in file we read in CHANGED
-#define MAX_GENERATIONS 700000 //if hit 1,000,000 generations, end program
+#define MAX_GENERATIONS 100000 //if hit 1,000,000 generations, end program
 
 
 /* Global Variables */
