@@ -1,0 +1,4907 @@
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 10100 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 10100 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 10100 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 10100 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 10100 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 13
+
+
+Total Generations: 1000
+Best Organism: DNA = 11101, Items = a b c e , Cost = 13, Value = 16
+Uses of Fitness Function: 2100
+
+
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10101 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10101 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10101 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10101 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 11100 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 11100 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 11100 Fitness: 11
+DNA: 11100 Fitness: 11
+DNA: 11100 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 11100 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 13
+
+
+Total Generations: 1000
+Best Organism: DNA = 11101, Items = a b c e , Cost = 13, Value = 16
+Uses of Fitness Function: 2100
+
+
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 10010 Fitness: 13
+DNA: 10101 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10101 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10101 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10101 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10101 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10101 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10101 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10101 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10101 Fitness: 13
+DNA: 10101 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10101 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10101 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10101 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 11100 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 11100 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 11100 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 10100 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 10100 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 10100 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+ 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 13
+
+
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 10101 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10101 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10101 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10101 Fitness: 13
+DNA: 10101 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10101 Fitness: 13
+DNA: 10101 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10101 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10101 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 10010 Fitness: 13
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 01110 Fitness: 12
+DNA: 00011 Fitness: 12
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 11100 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 11100 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 11100 Fitness: 11
+DNA: 11100 Fitness: 11
+DNA: 11100 Fitness: 11
+DNA: 11100 Fitness: 11
+DNA: 11100 Fitness: 11
+DNA: 11100 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 11100 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 11100 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 11100 Fitness: 11
+DNA: 10001 Fitness: 11
+DNA: 11100 Fitness: 11
+DNA: 11100 Fitness: 11
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 01010 Fitness: 10
+DNA: 01101 Fitness: 10
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 11000 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 00110 Fitness: 9
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 10100 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 10100 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 10100 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 01001 Fitness: 8
+DNA: 00010 Fitness: 7
+DNA: 00010 Fitness: 7
+DNA: 00010 Fitness: 7
+DNA: 00010 Fitness: 7
+DNA: 00010 Fitness: 7
+DNA: 00010 Fitness: 7
+DNA: 00010 Fitness: 7
+DNA: 00010 Fitness: 7
+DNA: 00010 Fitness: 7
+DNA: 00010 Fitness: 7
+DNA: 00010 Fitness: 7
+DNA: 00010 Fitness: 7
+Total Generations: 1000
+Best Organism: DNA = 11101, Items = a b c e , Cost = 13, Value = 16
+Uses of Fitness Function: 2100
+
+
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 13
+
+
+Total Generations: 1000
+Best Organism: DNA = 11101, Items = a b c e , Cost = 13, Value = 16
+Uses of Fitness Function: 2100
+
+
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+^[[AKaylas-MacBook-Pro:AI_Project2_GA kaylaholco./a.out
+
+
+Capacity: 13
+
+
+Total Generations: 10000
+Best Organism: DNA = 11101, Items = a b c e , Cost = 13, Value = 16
+Uses of Fitness Function: 20100
+
+
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 13
+
+
+Total Generations: 10000
+Best Organism: DNA = 11101, Items = a b c e , Cost = 13, Value = 16
+Uses of Fitness Function: 20100
+
+
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+DNA: 00111 Fitness: 14
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 13
+
+
+Total Generations: 1000000
+Best Organism: DNA = 11101, Items = a b c e , Cost = 13, Value = 16
+Uses of Fitness Function: 2000100
+
+
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 11101 Fitness: 16
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 10110 Fitness: 15
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 11001 Fitness: 14
+DNA: 00111 Fitness: 14
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 96
+
+
+libc++abi.dylib: terminating with uncaught exception of type std::out_of_range: basic_string
+Abort trap: 6
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 442
+
+
+libc++abi.dylib: terminating with uncaught exception of type std::out_of_range: basic_string
+Abort trap: 6
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./s.out
+-bash: ./s.out: No such file or directory
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./s.out
+-bash: ./s.out: No such file or directory
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 442
+
+
+libc++abi.dylib: terminating with uncaught exception of type std::out_of_range: basic_string
+Abort trap: 6
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 442
+
+
+libc++abi.dylib: terminating with uncaught exception of type std::out_of_range: basic_string
+Abort trap: 6
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./s.out
+-bash: ./s.out: No such file or directory
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Capacity: 442
+
+
+libc++abi.dylib: terminating with uncaught exception of type std::out_of_range: basic_string
+Abort trap: 6
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+Capacity: 442
+
+
+libc++abi.dylib: terminating with uncaught exception of type std::out_of_range: basic_string
+Abort trap: 6
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 442
+
+
+Total Generations: 10000
+Best Organism: DNA = 1011000011101111111001110110000100100001100100101001010111101100100111100111111001011000100001111011, Items = a c d i j k m n o p q r s v w x z aa ff ii nn oo rr uu ww zz B D E F G I J M P Q R S V W X Y Z AA DD FF GG KK PP QQ RR SS UU VV , Cost = 442, Value = 549
+Uses of Fitness Function: 20100
+
+
+DNA: 1011000011101111111001110110000100100001100100101001010111101100100111100111111001011000100001111011 Fitness: 549
+DNA: 0000101011110100101010010001101010110000011010001000011011100001011111110010111001110110010100110011 Fitness: 515
+DNA: 0101110111011100000101011011000001000010010101100010111101001100011001101010101011011000000111001111 Fitness: 509
+DNA: 0101110111011100000101011011000001000010010101100010111101001100011001101010101011011000000110111011 Fitness: 508
+DNA: 0010011111101001111010100110100010110100000101100000101110000110110111100001111011110110011011100000 Fitness: 507
+DNA: 1101001000111000010100010110001101000001011010010001101001101110000011111101110001100001001110111001 Fitness: 505
+DNA: 1010000001100001101100011010100100111011000101001000011101111011011001100010000111110011011111100000 Fitness: 502
+DNA: 1110111011101110000001001001001111101000100101010010001110101010100100111110011110001000000001111011 Fitness: 501
+DNA: 0010011111101001111010100110100010110100000110110101010010110110100110011101111000001100100000011111 Fitness: 499
+DNA: 0010011111101001111010100110100010110100000111000101010010110110100110011101111000001100100000011111 Fitness: 497
+DNA: 0010011111101001111010100110100010110100000111000101010010110110100110011101111000001100100000011111 Fitness: 497
+DNA: 0010011111101001111010100110100010110100000001001000101010011100100110110000110100111011011010111001 Fitness: 497
+DNA: 1011110010100111111010010000010000111100001000000000001111101001111110000011111000110111101101000100 Fitness: 496
+DNA: 1010000001100001101100011010100100111011000111011100101110001110101110100110011110001000000001111011 Fitness: 495
+DNA: 0010011111101001111010100110100010110100000110011100101110001110101110100110011110001000000001111011 Fitness: 494
+DNA: 0010011111101001111010100110100010110100000110011100101110001110101110100110011110001000000001111011 Fitness: 494
+DNA: 0010011111101001111010100110100010110100000110011100101110001110101110100110011110001000000001111011 Fitness: 494
+DNA: 1010000001100001101100011010100100111011000001000100000101100001011111110010111001110110010100110011 Fitness: 494
+DNA: 0010011111101001111010100110100010110100000001001000011010011100100110110000110100111011011010111001 Fitness: 494
+DNA: 0010011101000100000000100110000100110000100101001000100011100001011111110010111001110110010100110011 Fitness: 490
+DNA: 0010011111101001111010100110100010110100000110000101010010110110100110011101111000001100100000011111 Fitness: 489
+DNA: 0100011010010101000001011010010110010101100001000101010010110110100110011101111000001100100000011111 Fitness: 488
+DNA: 0010011111101001111010100110100010110100000000010110001100100101110111001111000010010011111101110000 Fitness: 487
+DNA: 1011100101101010111110100101101001101010011110001001010111101100100111100111111001011000100001000100 Fitness: 487
+DNA: 0010011111101001111010100110100010110100000110110111100011100011011000011110000100001001100100011111 Fitness: 487
+DNA: 0010011111101001111010100110100010110100000000010110001100100101110111001111000010010011111101110000 Fitness: 487
+DNA: 1011111110010000000011010000000100011000101010000000001111101001110111100001111011110110011011100000 Fitness: 486
+DNA: 0100011010010101000001011010010110010101100000011100101110001110101110100110011110001000000001111011 Fitness: 485
+DNA: 1100010010001111010000000011111000011100000000110010000100100010010111010111111100110011111100000110 Fitness: 485
+DNA: 1000000011001010101000001001101000000110100010010010101110101101111000000011110000001100110101110111 Fitness: 485
+DNA: 1101100000010110000101011001011101001011111001001000011101111010001110010111110011000100100101000110 Fitness: 484
+DNA: 0010011111101001111010100110100010110100000110110111110101100011011001001111001011000100100101000110 Fitness: 484
+DNA: 0010011111101001111010100110100010110100000110110111100100011110100000111110000100001001100100011111 Fitness: 482
+DNA: 1111110010100111111010010000010000111100001000000000001111101001111110000011111000110111101101000000 Fitness: 481
+DNA: 1100100100100101111010100000000100000001000000100010110110111100001000001110101100101011110111010100 Fitness: 480
+DNA: 0111011010101010111011010000111110000100100101101001110011011010001000110000111101101100000010001111 Fitness: 480
+DNA: 1110110101000100000000100110000100110000100101001000101010011100100110110000110100111011011010111001 Fitness: 479
+DNA: 1101100000010110000101011001011101001011111001001000011101111010001110010111110000001001011001001100 Fitness: 479
+DNA: 0001000100010001111110110110110010010100001011000101010010110110100110011101111000001100100000011111 Fitness: 478
+DNA: 0010011111101001111010100110100010110100000111101001110011011010001000110000111101101100000010001111 Fitness: 478
+DNA: 0010011111101001111010100110100010110100000110111001110011011010001000110000111101101100000010001111 Fitness: 478
+DNA: 1101100000010110000101011001011101001011111001001000011101111010001110010111110000001010101101000100 Fitness: 478
+DNA: 0010011111101001111010100110100010110100000111101001110011011010001000110000111101101100000010001111 Fitness: 478
+DNA: 0010110000010101000111100100010110010101100000010110001100100101110111001111000010010011111101110000 Fitness: 477
+DNA: 0010011111101001111010100110100010110100000110110001110011011010001000110000111101101100000010001111 Fitness: 475
+DNA: 1101100000010110000101011001011101001011111001001000011101111010001110010111000100111000000010001111 Fitness: 475
+DNA: 1101100000010110000101011001011101001011111001001000011010011111011001001111001011000100100101000110 Fitness: 475
+DNA: 0000101011110100101010010001101010110000011010011111010001111110001000011110000100001001100100011111 Fitness: 474
+DNA: 1101100000010110000101011001011101001011111001001000101011111001001000011110000100001001100100011111 Fitness: 474
+DNA: 0010011111101001111010100110100010110100000110110111100100011110001000011110000100001001100100011111 Fitness: 474
+DNA: 1110111011101110000001001001001101101011110101001001111100000110001000011110000100001001100100011111 Fitness: 472
+DNA: 0010011111101001111010100110100010110100000110110111100010111001001000011110000100001001100100011111 Fitness: 472
+DNA: 1101100000010110000101011001011101001011111001001000011101111010001000011110000100001001100100011111 Fitness: 472
+DNA: 1101100000010110000101011001011101001011111001001000011101111010001000011110000100001001100100011111 Fitness: 472
+DNA: 0010011111101001111010100110100010110100000110110111100010000101110000011101111000001100100000011111 Fitness: 471
+DNA: 0010011111101001111010100110100010110100000110110111100101100011011001001111001011000100100101000110 Fitness: 471
+DNA: 0010011111101001111010100110100010110100000110110111100101100011011001001111001011000100100101000110 Fitness: 471
+DNA: 0010011111101001111010100110100010110100000001100011010001110001010001011001100001110111111110000100 Fitness: 471
+DNA: 0010011111101001111010100110100010110100000110110111100011100011011001001111001011000100100101000110 Fitness: 471
+DNA: 0010011111101001111010100110100010110100000110110111100101100011011001001111001011000100100101000110 Fitness: 471
+DNA: 0010011111101001111010100110100010110100000110110111100101100011011001001111001011000100100101000110 Fitness: 471
+DNA: 0010011111101001111010100110100010110100000110110111100101100011011001001111001011000100100101000110 Fitness: 471
+DNA: 0010011111101001111010100110100010110100000110110111100010000101110000011101111000001100100000011111 Fitness: 471
+DNA: 1101100000010110000101011001011101001011111001001000011101111010011001001111001011000100100101000110 Fitness: 471
+DNA: 0010011111101001111010100110100010110100000110110111100101100011011001001111001011000100100101000110 Fitness: 471
+DNA: 0010011111101001111010100110100010110100000110110111100101100011011001001111001011000100100101000110 Fitness: 471
+DNA: 1001100011101100010000001010111100000100000110001010101001111100111101101001010001010010001110010100 Fitness: 470
+DNA: 1100100100100101111010100000000100000001000000100010110110111100110001011001100001110011110101011000 Fitness: 470
+DNA: 0010011000011110011100101000011101000001110111001001001110011001000100111110111000011100110001100110 Fitness: 469
+DNA: 0100001101011000000101101100000010101000100011011110010101100010111000010111100010011010011011100001 Fitness: 469
+DNA: 0001111010100110001001110101000101000000001100010110111000110100101010110010100000011001111110001110 Fitness: 469
+DNA: 0010011111101001111010100110100010110100000110110111100010011100101000011110000100001001100100011111 Fitness: 469
+DNA: 0010011111101001111010100110100010110100000110110111100001111001001000011110000100001001100100011111 Fitness: 469
+DNA: 0010011111101001111010100110100010110100000110110111010101100011011001001111001011000100100101000110 Fitness: 468
+DNA: 0010011111101001111010100110100010110100000110110111010101100011011001001111001011000100100101000110 Fitness: 468
+DNA: 0010011111101001111010100110100010110100000110110111010101100011011001001111001011000100100101000110 Fitness: 468
+DNA: 1110111011101110000001001001001101101011110101001001111100001001001000011110000100001001100100011111 Fitness: 468
+DNA: 0010011111101001111010100110100010110100000110110111010101100011011001001111001011000100100101000110 Fitness: 468
+DNA: 0010011111101001111010100110100010110100000110110111010101100011011001001111001011000100100101000110 Fitness: 468
+DNA: 0010011111101001111010100110100010110100000110110111010101100011011001001111001011000100100101000110 Fitness: 468
+DNA: 1011111110010000000011010000000100011000101010000000001111101001111110000011111000110001000111101100 Fitness: 468
+DNA: 0001000100010001111110110110110010010100001010110110000011110110110111100111001011000100100101000110 Fitness: 468
+DNA: 1010000001100001101100011010100100111011000101101001110011011010001000110000111101101100000010001111 Fitness: 467
+DNA: 1101100000010110000101011001011101001011111001001000101010011100100110011110000100001001100100011111 Fitness: 466
+DNA: 1101001000111000010100010110001101000001011010010001101001101110010010000110100011011011000111101100 Fitness: 466
+DNA: 1101100000010110000101011001011101001011111001001000011011100001011111001111001011000100100101000110 Fitness: 466
+DNA: 1011110010100111111010010000010000111100001000100011010001110001010001011001100001110111111110000100 Fitness: 466
+DNA: 0010011111101001111010100110100010110100000110110111100010000100100110011101111000001100100000011111 Fitness: 465
+DNA: 0010011111101001111010100110100010110100000110110111100100011110100000111111001011000100100101000110 Fitness: 465
+DNA: 0010011111101001111010100110100010110100000110110111100010000100100110011101111000001100100000011111 Fitness: 465
+DNA: 1010000001100001101100011010100100111011000101110111010101100011011001001111001011000100100101000110 Fitness: 465
+DNA: 0010011111101001111010100110100010110100000110110111100010000100100110011101111000001100100000011111 Fitness: 465
+DNA: 0010011111101001111010100110100010110100000110110111100010000100100110011101111000001100100000011111 Fitness: 465
+DNA: 1101011110001010000000011100111001000000010001110000101100110111110111110001010011010100001000101011 Fitness: 465
+DNA: 1000100101010101000100101111000001111011011010000001101100111010001000110000111101101100000010001111 Fitness: 464
+DNA: 0010011111101001111010100110100010110100000110111011111010011110100000001101000110001001101011001100 Fitness: 464
+DNA: 0101111110011110010011100101011011000100111010000000111011100100110011010000111010000000010010111011 Fitness: 464
+DNA: 0010011111101001111010100110100010110100000110111011111010011110100000001101000110001001101011001100 Fitness: 464
+DNA: 1101100000010110000101011001011101001011111001001000011101100000100110011101111000001100100000011111 Fitness: 463
+DNA: 0100001101011000000101101100000010101000100011011110010101100000010111001100001110010111111110000100 Fitness: 463
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 442
+
+
+Total Generations: 10000
+Best Organism: Items = a c d e f h j k l m n o q r v w y cc dd ii jj ss xx yy B C D F G H J K L M N O Q S V W X Y CC DD FF HH KK NN OO PP SS TT VV , Cost = 431, Value = 554
+Uses of Fitness Function: 20100
+
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 442
+
+
+Total Generations: 10000
+Best Organism: Items = a b c e g j l m o q r v z aa cc ee gg kk oo rr ww yy zz C D E F G H I J K Q S U V W X Y DD HH II KK LL MM OO PP RR TT 
+Cost = 436, Value = 517
+Uses of Fitness Function: 20100
+
+
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+^[[AKaylas-MacBook-Pro:AI_Project2_GA kaylaholco./a.out
+
+
+Capacity: 442
+
+
+Total Generations: 100000
+Best Organism: Items = a c d g k l n q r t v z aa cc dd ee jj kk mm qq rr ww A E F G H I J L N O Q R S T U W X Z AA BB DD FF JJ LL OO QQ SS UU VV 
+Cost = 442, Value = 548
+Uses of Fitness Function: 200100
+
+
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 442
+
+
+Total Generations: 1000000
+Best Organism: Items = a b c d e j k m n o p q s t y cc dd ff kk mm nn rr uu ww xx C D E F G H I J K L Q T U V X Y Z AA FF GG II JJ KK LL OO SS UU 
+Cost = 420, Value = 528
+Uses of Fitness Function: 2000100
+
+
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 442
+
+
+libc++abi.dylib: terminating with uncaught exception of type std::out_of_range: basic_string
+Abort trap: 6
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 442
+
+
+libc++abi.dylib: terminating with uncaught exception of type std::out_of_range: basic_string
+Abort trap: 6
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+^[[AKaylas-MacBook-Pro:AI_Project2_GA kaylaholco./a.out
+
+
+Capacity: 442
+
+
+libc++abi.dylib: terminating with uncaught exception of type std::out_of_range: basic_string
+Abort trap: 6
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+^[[AKaylas-MacBook-Pro:AI_Project2_GA kaylaholco./a.out
+
+
+Capacity: 442
+
+
+^C
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 442
+
+
+^C
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 442
+
+
+Time to Run: 0.003466
+Total Generations: 0
+Best Organism: Items = a b c d e g h i l m p q r s t x y aa cc dd ee jj mm tt C G H I J K L N R S T U V W X Y Z BB CC EE II KK OO QQ RR SS TT UU 
+Cost = 415, Value = 548
+Uses of Fitness Function: 100
+
+
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+^[[AKaylas-MacBook-Pro:AI_Project2_GA kaylaholco./a.out
+
+
+Capacity: 442
+
+
+Time to Run: 0.003323
+Total Generations: 0
+Best Organism: Items = a b d g i j k l m n o r s t u w y dd ee ii kk vv ww xx yy B D E F G H J L N P Q T U V W X CC DD EE FF GG KK MM NN RR TT UU VV 
+Cost = 442, Value = 560
+Uses of Fitness Function: 100
+
+
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 442
+
+
+^C
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 442
+
+
+Time to Run: 0.597139
+Total Generations: 2231
+Best Organism: Items = b c d e g i j k n o p q t u v x y z cc ff hh kk pp qq uu xx C D E F I J M N O R U V W X Y Z AA BB CC LL MM OO QQ RR SS UU VV 
+Cost = 428, Value = 522
+Uses of Fitness Function: 4562
+
+
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 442
+
+
+^C
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 442
+
+
+Time to Run: 2.5934
+Total Generations: 10000
+Best Organism: Items = a b c d e f h i l n o p s t v z aa dd ee gg mm pp rr ss tt vv A C D E F G I J O P Q R U V X Y EE FF GG HH JJ KK OO PP TT UU 
+Cost = 435, Value = 532
+Uses of Fitness Function: 20100
+
+
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 442
+
+
+Time to Run: 2.56354
+Total Generations: 10000
+Best Organism: Items = c e f h i o r u w x y bb cc ee gg nn oo pp vv A C F I J K N O R T U V W AA CC DD EE FF GG HH II JJ KK LL NN PP SS VV 
+Cost = 420, Value = 523
+Uses of Fitness Function: 20100
+
+
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+^[[AKaylas-MacBook-Pro:AI_Project2_GA kaylaholco./a.out
+
+
+Capacity: 442
+
+
+Time to Run: 0.00291
+Total Generations: 0
+Best Organism: Items = e f h i j k l m o p q r t u v aa bb cc dd ff nn pp qq vv zz A B C E F G H I J L N R S U V W Z BB DD FF II JJ KK OO PP SS TT UU 
+Cost = 434, Value = 531
+Uses of Fitness Function: 100
+
+
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 442
+
+
+Time to Run: 2.54215
+Total Generations: 10000
+Best Organism: Items = b f g k l q t cc ff gg ii qq rr tt uu vv ww F G J L M N O P R S T U V X Y Z AA EE FF GG HH II JJ KK LL OO RR TT UU 
+Cost = 432, Value = 537
+Uses of Fitness Function: 20100
+
+
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 442
+
+
+Time to Run: 2.48725
+Total Generations: 10000
+Best Organism: Items = a d h j k p w x y z aa ii jj kk oo rr tt uu ww zz A B D F G H I M N O P R S T V W X Y AA CC DD FF GG LL MM OO PP QQ UU 
+Cost = 438, Value = 540
+Uses of Fitness Function: 20100
+
+
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 442
+
+
+Time to Run: 2.49576
+Total Generations: 10000
+Best Organism: Items = a c d f g i k m o r s t u v x y aa cc dd ee ii jj qq tt uu xx B C D E F G H I K M N O R S Y Z AA BB HH II JJ MM OO PP RR SS 
+Cost = 430, Value = 527
+Uses of Fitness Function: 20100
+
+
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 442
+
+
+Time to Run: 2.51009
+Total Generations: 10000
+Best Organism: Items = e f i j l m o p q r s t x y z bb ii jj kk mm rr ss uu vv ww A B C D E F H I J K L P R S T W X Y BB CC DD EE II MM QQ RR UU 
+Cost = 431, Value = 527
+Uses of Fitness Function: 20100
+
+
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 442
+
+
+Time to Run: 25.2242
+Total Generations: 100000
+Best Organism: Items = a b d f h i j k n q u w y z cc ee hh jj mm nn C D F I J K L M N O P R S U V W Y Z AA DD EE JJ KK LL NN OO RR SS TT UU VV 
+Cost = 411, Value = 566
+Uses of Fitness Function: 200100
+
+
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 442
+
+
+^A^[[Z^Z
+[1]+  Stopped                 ./a.out
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 442
+
+
+Time to Run: 25.0226
+Total Generations: 100000
+Best Organism: Items = c e f q r u v z ee jj ll oo pp qq rr ss tt vv ww zz B C E H J K L N Q R T U V W Y Z BB DD EE FF GG II JJ KK OO SS TT 
+Cost = 436, Value = 513
+Uses of Fitness Function: 200100
+
+
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 13
+
+
+Time to Run: 600
+Total Generations: 2407231
+a.out(4876,0x7fffa45f43c0) malloc: *** mach_vm_map(size=3544386994089050112) failed (error code=3)
+*** error: can't allocate region
+*** set a breakpoint in malloc_error_break to debug
+libc++abi.dylib: terminating with uncaught exception of type std::bad_alloc: std::bad_alloc
+Best Organism: Items = Abort trap: 6
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 2524
+
+
+^C
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 2524
+
+
+Time to Run: 2.61991 seconds
+Total Generations: 10000
+Best Organism: Items = c f g h i j k l m o p r t v x y AD AE AF AH AI AJ AK AL AO AP AU AV AW AY BC BD BE BF BH BI BJ BK BL BM BO BY BZ CA CB CF CG CH CJ CK CL CP CQ 
+Cost = 2461, Value = 2892
+Uses of Fitness Function: 20100
+
+
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ g++ genetic.cpp 
+^[[A^[[AKaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ ./a.out
+
+
+Capacity: 2524
+
+
+Time to Run: 25.1784 seconds
+Total Generations: 100000
+Best Organism: Items = b c d e f g h i j m n o p q r s t z AA AB AC AD AF AH AI AK AN AP AQ AS AT AU AV BA BB BE BF BG BH BI BP BT BV BW BY CC CD CE CF CG CH CK CL CT CU 
+Cost = 2419, Value = 3138
+Uses of Fitness Function: 200100
+
+
+Kaylas-MacBook-Pro:AI_Project2_GA kaylaholcomb$ 
