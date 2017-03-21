@@ -21,7 +21,7 @@ using namespace std;
 #define MUTATION_RATE 0.005 //.5% chance of mutation per bit in organism DNA
 #define POP_SIZE 100 //number of organisms to generate and build off of
 #define DNA_LENGTH 81 //number of items in file we read in CHANGED
-#define MAX_GENERATIONS 700000 //if hit 1,000,000 generations, end program
+#define MAX_GENERATIONS 100000 //if hit 1,000,000 generations, end program
 
 
 /* Global Variables */
@@ -406,7 +406,7 @@ int main() //TODO check if passing population back and forth by copy or referenc
 	population = generate(puzzle);
 
 	//check if time > 10 minutes, generation > 1,000,000 or converge 3 times on same value
-	while((( clock() - start ) / (double) CLOCKS_PER_SEC <= 1000) && generation < MAX_GENERATIONS && convergenceCount != 3)
+	while((( clock() - start ) / (double) CLOCKS_PER_SEC <= 600) && generation < MAX_GENERATIONS && convergenceCount != 3)
 	{
 		generation++;
 		population = reproduce(population);
