@@ -56,27 +56,31 @@ int squareSum(int rowBeg, int rowEnd, int columnBeg, int columnEnd, vector<row> 
 {
 	int sum=0;
 	bool sqNums[9] = { 0 };
+	int penalty = 0;
 
 	for(int i = rowBeg; i <= rowEnd; i++)//lets check all the 9 SQUARES to assign the square rule fitness
     {
     	for(int j=columnBeg; j<=columnEnd; j++)
     	{
-    		sum+=puzzle[i].newValues[j];
+    		// sum+=puzzle[i].newValues[j];
     		sqNums[puzzle[i].newValues[j]-1] = true;
-
     	}
+
+    	for(int j=columnBeg; j<=columnEnd; j++)
+    		if(!sqNums[j])
+    			penalty++;
     }
-    if((sum!=45) && (!(sqNums[0] && sqNums[1] && sqNums[2] && sqNums[3] && sqNums[4] && sqNums[5] && sqNums[6] && sqNums[7] && sqNums[8])))
-    		return 2; //add a penalty for both
-    if(sum!=45)//in case all nums are there but not the sum?
-    	return 1;
-    return 0;
+    // if((sum!=45) && (!(sqNums[0] && sqNums[1] && sqNums[2] && sqNums[3] && sqNums[4] && sqNums[5] && sqNums[6] && sqNums[7] && sqNums[8])))
+    // 		return 2; //add a penalty for both
+    // if(sum!=45)//in case all nums are there but not the sum?
+    // 	return 1;
+    return penalty;
 }
 
 int fit(organism org)//returns the fitness of that piece of the puzzle //WORK ON THISSSSS 
 {
 	fitnessRuns++;
-	int fit = 45; //that's what will be counting our fitness, the more you have the better off you are
+	int fit = 243; //that's what will be counting our fitness, the more you have the better off you are
 	//27 because there are 27 possible penalties
     int penalty = 0;//the greater the penalty, the worse it is
     int rowSum=0;
@@ -90,13 +94,18 @@ int fit(organism org)//returns the fitness of that piece of the puzzle //WORK ON
 
     	for(int j=0; j<9; j++)
     	{
-    		rowSum+=org.dna[i].newValues[j];
+    		// rowSum+=org.dna[i].newValues[j];
     		rowNums[org.dna[i].newValues[j]-1] = true;
+    		
     	}
-    	if(rowSum!=45)
-    		penalty++;
-    	if(!(rowNums[0] && rowNums[1] && rowNums[2] && rowNums[3] && rowNums[4] && rowNums[5] && rowNums[6] && rowNums[7] && rowNums[8]))
-    		penalty++;
+    	// if(rowSum!=45)
+    	// 	penalty++;
+    	// if(!(rowNums[0] && rowNums[1] && rowNums[2] && rowNums[3] && rowNums[4] && rowNums[5] && rowNums[6] && rowNums[7] && rowNums[8]))
+    	// 	penalty++;
+
+    	for(int j=0; j<9; j++)
+    		if(!rowNums[j])
+    			penalty++;
     }
 
     for(int i = 0; i < 9; i++)//lets check all the 9 COLUMNS to assign the column rule fitness
@@ -106,15 +115,22 @@ int fit(organism org)//returns the fitness of that piece of the puzzle //WORK ON
 
     	for(int j=0; j<9; j++)
     	{
-    		columnSum+=org.dna[j].newValues[i];
+    		// columnSum+=org.dna[j].newValues[i];
     		columnNums[org.dna[j].newValues[i]-1] = true;
+    		
 
     	}
-    	if(columnSum!=45)
-    		penalty++;
-    	if(!(columnNums[0] && columnNums[1] && columnNums[2] && columnNums[3] && columnNums[4] && columnNums[5] && columnNums[6] && columnNums[7] && columnNums[8]))
-    		penalty++;
+    	// if(columnSum!=45)
+    	// 	penalty++;
+    	// if(!(columnNums[0] && columnNums[1] && columnNums[2] && columnNums[3] && columnNums[4] && columnNums[5] && columnNums[6] && columnNums[7] && columnNums[8]))
+    	// 	penalty++;
+
+    	for(int j=0; j<9; j++)
+    		if(!columnNums[j])
+    			penalty++;
     }
+
+
 
 
 	penalty+=squareSum(0,2,0,2,org.dna);
@@ -460,7 +476,7 @@ int main() //TODO check if passing population back and forth by copy or referenc
 	cout << "Time to Run: " << ( clock() - start ) / (double) CLOCKS_PER_SEC << " seconds" << endl;
 	cout << "Total Generations: " << generation << endl;
 	//TODO create new item vector and print for items instead
-	cout << "Best Organism: " << endl;
+	//cout << "Best Organism: " << endl;
 	cout << printPuzzle(population.top()) << endl;
 	//cout << "Fitness = " << population.top().fitness << endl;
 	cout << "Uses of Fitness Function: " << fitnessRuns << endl;
