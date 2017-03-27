@@ -21,7 +21,7 @@ using namespace std;
 #define MUTATION_RATE 0.005 //.5% chance of mutation per bit in organism DNA
 #define POP_SIZE 100 //number of organisms to generate and build off of
 #define DNA_LENGTH 81 //number of items in file we read in CHANGED
-#define MAX_GENERATIONS 100000 //if hit 1,000,000 generations, end program
+#define MAX_GENERATIONS 1000000 //if hit 1,000,000 generations, end program
 
 
 /* Global Variables */
@@ -182,49 +182,74 @@ vector<row> mutate(vector<row> dna, float rate)
 
 priority_queue<organism> reproduce(priority_queue<organism> population)
 {
+	//previously random selection with optimization to pick best of two for each parent (simple Tournament style parent picking algorithm)
+	//now mates the two best and two worst parents (get 4 children, mating of worst in addition to best allows for more diversity)
 	int randNum1 = rand() % 100;
-	int randNum11 = rand() % 100;
-
 	int randNum2 = rand() % 100;
-	int randNum22 = rand() % 100;
+	int randNum3 = rand() % 100;
+	int randNum4 = rand() % 100;
 
-	//choose lesser num to pick parent (closer to top of pq and better fitness)
-	if (randNum1 > randNum11)
-		randNum1 = randNum11; 
+	int best1, best2, worst1, worst2;
+	//closer to top of pq and better fitness
+	if (randNum1 > randNum3)
+	{
+		best1 = randNum3; 
+		worst1 = randNum1;
+	}
+	else
+	{
+		worst1 = randNum3; 
+		best1 = randNum1;
+	}
 
-	if (randNum2 > randNum22)
-		randNum2 = randNum22; 
+	if (randNum2 > randNum4)
+	{
+		best2 = randNum4; 
+		worst2 = randNum2;
+	}
+	else
+	{
+		worst2 = randNum4; 
+		best2 = randNum2;
+	}
 
-	//TODO - want to do tournament style pick for parents
-
-	//TODO - change PQ structure to user-sorted stl container to avoid this in future iterations
 	priority_queue<organism> temp; 
-	organism parent1, parent2;
+	organism parent1, parent2, parent3, parent4;
 	int iterator = 0;
 
 	while(population.size() != 0)
 	{
 		temp.push(population.top());
-		if (iterator == randNum1)
+		if (iterator == best1)
 		{
 			parent1.dna = population.top().dna;
 			parent1.fitness = population.top().fitness;
 		}
-		if (iterator == randNum2)
+		if (iterator == best2)
 		{
 			parent2.dna = population.top().dna;
 			parent2.fitness = population.top().fitness;
+		}
+		if (iterator == worst1)
+		{
+			parent3.dna = population.top().dna;
+			parent3.fitness = population.top().fitness;
+		}
+		if (iterator == worst2)
+		{
+			parent4.dna = population.top().dna;
+			parent4.fitness = population.top().fitness;
 		}
 		population.pop();
 		iterator++;
 	}
 
 	//crossover //*********************************************************************************************
-	int crossover = (rand() % 81) + 1; //random point from 1 to 99 //SHOULD THIS BE 81?????????? i think so
+	int crossover = (rand() % 81) + 1;
 	int rowNum = crossover/9;
 	int columnNum = (crossover % 9)-1;
 
-	organism child1, child2;
+	organism child1, child2, child3, child4;
 	child1.dna = parent1.dna;
 	for(int i=0; i<rowNum; i++)//row
 	{
@@ -241,19 +266,41 @@ priority_queue<organism> reproduce(priority_queue<organism> population)
 			child2.dna[i].newValues[j]=parent1.dna[i].newValues[j];
 		}
 	}
+	child3.dna = parent3.dna;
+	for(int i=0; i<rowNum; i++)//row
+	{
+		for(int j=0; j<columnNum; j++)//column
+		{
+			child1.dna[i].newValues[j]=parent4.dna[i].newValues[j];
+		}
+	}
+	child4.dna = parent4.dna;
+	for(int i=0; i<rowNum; i++)//row
+	{
+		for(int j=0; j<columnNum; j++)//column
+		{
+			child2.dna[i].newValues[j]=parent3.dna[i].newValues[j];
+		}
+	}
 
 	//mutation
 	child1.dna = mutate(child1.dna, MUTATION_RATE);
 	child2.dna = mutate(child2.dna, MUTATION_RATE);
+	child3.dna = mutate(child1.dna, MUTATION_RATE);
+	child4.dna = mutate(child2.dna, MUTATION_RATE);
 
 	//put child organisms through fitness and add to temp
 	child1.fitness = fit(child1);
 	child2.fitness = fit(child2);
+	child3.fitness = fit(child1);
+	child4.fitness = fit(child2);
 	temp.push(child1);
 	temp.push(child2);
+	temp.push(child3);
+	temp.push(child4);
 
-	//won't copy last element of temp back to population, this kills the worst organism
-	while(temp.size() > 2) 
+	//won't copy last elements of temp back to population, this kills the worst organisms
+	while(temp.size() > 4) 
 	{
 		population.push(temp.top());
 		temp.pop();
@@ -418,7 +465,7 @@ int main() //TODO check if passing population back and forth by copy or referenc
 	population = generate(puzzle);
 
 	//check if time > 10 minutes, generation > 1,000,000 or converge 3 times on same value
-	while((( clock() - start ) / (double) CLOCKS_PER_SEC <= 600) && generation < MAX_GENERATIONS && convergenceCount != 3)
+	while((( clock() - start ) / (double) CLOCKS_PER_SEC <= 900) && generation < MAX_GENERATIONS && convergenceCount != 3)
 	{
 		generation++;
 		population = reproduce(population);
