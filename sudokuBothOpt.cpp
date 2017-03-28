@@ -325,14 +325,26 @@ priority_queue<organism> generate(vector<row> &puzzle)
 		for(int i = 0; i < 9; i++) //go through the whole puzzle (each row)   //pop_size is 81, so the whole puzzle
 		{
 			//org.dna = "";
+			bool rowNums[9] = { 0 };
+			for(int j = 0; j < 9; j++) //go through each item in the row    //dna_length is 81
+			{
+				rowNums[tempPuzzle[i].originalValues[j]-1] = true; //seg fault oops
+
+			}
 			
 			for(int j = 0; j < 9; j++) //go through each item in the row    //dna_length is 81
 			{
 				if(tempPuzzle[i].originalValues[j] == 0)
 				{
-					tempPuzzle[i].newValues[j] = ((rand() % 9) + 1); //++ because we don't want 0s
-					
+					//tempPuzzle[i].newValues[j] = ((rand() % 9) + 1); //++ because we don't want 0s
+					int r = ((rand() % 9) + 1);
+					while(rowNums[r-1] == true)
+					{
+						r = ((rand() % 9) + 1);
+					}
 					//org.dna.append(to_string(randNum));
+					tempPuzzle[i].newValues[j] = r;
+					rowNums[r-1] = true;
 				}
 				else
 				{
@@ -423,7 +435,7 @@ int main() //TODO check if passing population back and forth by copy or referenc
 	//cout <<"Insert file name: ";
 	//cin >> filename;
 	
-	filename = "puzzle1.csv";
+	filename = "puzzle3.csv";
 
 	fstream fs;
 	fs.open ("input/" + filename);
